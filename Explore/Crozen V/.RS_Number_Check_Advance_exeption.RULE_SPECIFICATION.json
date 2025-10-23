@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "1JoobB2IPQnlJlEIUt6EYz",
+    "name" : "RS_Number_Check_Advance_exeption",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1JoobB2IPQnlJlEIUt6EYz"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2025-10-23T13:50:59.968Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
